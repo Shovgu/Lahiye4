@@ -1,0 +1,7 @@
+export const Action_Types = {
+    MOVIE_LOAD: "MOVIE_LOAD",
+    MOVIE_SUCCESS: "MOVIE_SUCCESS",
+    MOVIE_ERROR: "MOVIE_ERROR",
+    MOVIE_ADD: "MOVIE_ADD",
+    MOVIE_DELETE: "MOVIE_DELETE"
+}
